@@ -16,4 +16,4 @@
 
 ##
 
-🌻 for the worl
+🌻 for the world
