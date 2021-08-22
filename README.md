@@ -1,5 +1,4 @@
-### Oswaldo Ivann 👋
-
+## Oswaldo Ivann 👋
 
 Aquí, algo de mi mente. 🦧
       
@@ -11,11 +10,12 @@ Espectador y en ocasiones protagonista de una sociedad que constituye cambios l�
 ######   - 🌮  I ❤ México
 ######   - 🐱‍👤  Hard Word
 
+##### more...
 
-  - 🎨 art  
-  - 🎶 music
-  - 📚 Literature
-  - 🌳 Green peace
+######   - 🎨 art  
+######   - 🎶 music
+######   - 📚 Literature
+######    - 🌳 Green peace
 
 
 
