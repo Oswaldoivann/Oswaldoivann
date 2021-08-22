@@ -6,7 +6,7 @@
 
 
 ######   - 🎓  Actualmente estudio Ciencia de Datos
-######   - 🐱‍💻  Internauta Full-Time
+######   - 🐱‍💻  Internauta Full-Time                                                                                              ![image_text]() 
 ######   - 🌮  I ❤ México
 ######   - 🐱‍👤  Hard Work
 
