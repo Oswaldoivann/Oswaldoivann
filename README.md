@@ -12,7 +12,11 @@ Espectador y en ocasiones protagonista de una sociedad que constituye cambios l�
 
 ##### more...
 
-######   - 🎨 art  ######   - 🎶 music######   - 📚 Literature######    - 🌳 Green peace
+##### - art             - Music                 Literature              - Green peace
+
+######   - 🎨 art  ######   - 🎶 music######   - 📚 Literature######    - 🌳 Green peac
+e
+
 
 
 🌻 for the world
