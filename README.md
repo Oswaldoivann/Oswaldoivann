@@ -12,6 +12,6 @@
 
 ##### more...
 
-######  - 🎨 arte 🎶 música 📚 Literatura 🌳 Greenpeace  <p align="right"><img src="https://github.com/Oswaldoivann/Oswaldoivann/blob/main/emoji-cat.png" width="80"></em></p>
+######  - 🎨 arte 🎶 música 📚 Literatura 🌳 Greenpeace  
 
-🌻 for the world 
+🌻 for the world  :octocat:
