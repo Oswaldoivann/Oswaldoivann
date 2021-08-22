@@ -1,4 +1,4 @@
-## Oswaldo Ivann 👋.
+# Oswaldo Ivann 👋
 
 #### Aquí, algo de mi mente  🦧
       
