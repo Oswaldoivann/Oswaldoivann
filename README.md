@@ -17,4 +17,4 @@
 ##
 
 🌻 for the world
-<img src="https://github.com/Oswaldoivann/Oswaldoivann/blob/main/emoji-cat.png" width="80"></em></p>
+<img src="https://github.com/Oswaldoivann/Oswaldoivann/blob/main/emoji-cat.png" width="80" align=""></em></p>
