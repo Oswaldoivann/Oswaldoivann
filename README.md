@@ -1,4 +1,12 @@
-### Hi there 👋
+### Oswaldo Ivann 👋
+
+Here, some of my mind.
+
+Espectador y en ocasiones protagonista de una sociedad que constituye cambios líquidos, con situaciones que no mantienen su forma, qué están en constante movimiento, aún con principios de dominio en la coherencia y la razón, con la visión de que todos los días construimos nuestro presente y nuestro futuro.
+
+
+
+
 
 <!--
 **Oswaldoivann/Oswaldoivann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
