@@ -1,24 +1,21 @@
 ### Oswaldo Ivann 👋
 
-Here, some of my mind.
+Aquí, algo de mi mente. 🦧
+      
+Espectador y en ocasiones protagonista de una sociedad que constituye cambios líquidos, con situaciones que no mantienen su forma, qué están en constante movimiento, aún con principios de dominio en la coherencia y la razón, con la visión de que todos los días construimos nuestro presente y nuestro futuro. 
 
-Espectador y en ocasiones protagonista de una sociedad que constituye cambios líquidos, con situaciones que no mantienen su forma, qué están en constante movimiento, aún con principios de dominio en la coherencia y la razón, con la visión de que todos los días construimos nuestro presente y nuestro futuro.
+  
+  - 🎓  Actualmente estudio Ciencia de Datos
+  - 🐱‍💻  Internauta Full-Time
+  - 🌮  I ❤ México
+  - 🐱‍👤  Hard Word
+
+
+  - 🎨 art  
+  - 🎶 music
+  - 📚 Literature
+  - 🌳 Green peace
 
 
 
-
-
-<!--
-**Oswaldoivann/Oswaldoivann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌻 for the world
