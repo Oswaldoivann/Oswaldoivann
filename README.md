@@ -14,7 +14,7 @@ Espectador y en ocasiones protagonista de una sociedad que constituye cambios l�
 
 ##### - 🎨 arte, 🎶 música 📚 Literatura 🌳 Greenpeace
 
-#
-#
+##
+##
 
 🌻 for the world
