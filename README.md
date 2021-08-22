@@ -4,9 +4,12 @@
       
 #### Espectador y en ocasiones protagonista de una sociedad que constituye cambios líquidos, con situaciones que no mantienen su forma, qué están en constante movimiento, aún con principios de dominio en la coherencia y la razón, con la visión de que todos los días construimos nuestro presente y nuestro futuro. 
 
+<p align="right">
+  <img src="https://github.com/Oswaldoivann/Oswaldoivann/blob/main/emoji-cat.png"/>
+</p>
 
 ######   - 🎓  Actualmente estudio Ciencia de Datos
-######   - 🐱‍💻  Internauta Full-Time                                                           ![image_text](https://github.com/Oswaldoivann/Oswaldoivann/blob/main/emoji-cat.png)
+######   - 🐱‍💻  Internauta Full-Time                                                           
 ######   - 🌮  I ❤ México
 ######   - 🐱‍👤  Hard Work
 
