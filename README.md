@@ -14,7 +14,6 @@
 
 ######  - 🎨 arte 🎶 música 📚 Literatura 🌳 Greenpeace
 
-##
+<p align="right"><img src="https://github.com/Oswaldoivann/Oswaldoivann/blob/main/emoji-cat.png" width="80"></em></p>
 
 🌻 for the world
-<p align="right"><img src="https://github.com/Oswaldoivann/Oswaldoivann/blob/main/emoji-cat.png" width="80"></em></p>
