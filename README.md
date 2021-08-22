@@ -9,10 +9,11 @@
   <img src="https://github.com/Oswaldoivann/Oswaldoivann/blob/main/emoji-cat.png" alt="Sublime's custom image"/>
 </p>
 
-######                                               - 🎓  Actualmente estudio Ciencia de Datos
-######                                               - 🐱‍💻  Internauta Full-Time                                                           
-######                                               - 🌮  I ❤ México
-######                                               - 🐱‍👤  Hard Work
+######  - 🎓  Actualmente estudio Ciencia de Datos    <img src="https://github.com/Oswaldoivann/Oswaldoivann/blob/main/emoji-cat.png" width="30"> 
+</em></p>
+######  - 🐱‍💻  Internauta Full-Time                                                           
+######  - 🌮  I ❤ México
+######  - 🐱‍👤  Hard Work
 
 ##### more...
 
