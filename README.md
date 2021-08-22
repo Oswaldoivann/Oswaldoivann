@@ -6,7 +6,7 @@
 
 
 ######   - 🎓  Actualmente estudio Ciencia de Datos
-######   - 🐱‍💻  Internauta Full-Time                                                                                              ![image_text],,(https://github.com/Oswaldoivann/Oswaldoivann/blob/main/emoji-cat.png)
+######   - 🐱‍💻  Internauta Full-Time                                                           ![image_text](https://github.com/Oswaldoivann/Oswaldoivann/blob/main/emoji-cat.png)
 ######   - 🌮  I ❤ México
 ######   - 🐱‍👤  Hard Work
 
