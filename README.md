@@ -8,7 +8,7 @@ Espectador y en ocasiones protagonista de una sociedad que constituye cambios l�
 ######   - 🎓  Actualmente estudio Ciencia de Datos
 ######   - 🐱‍💻  Internauta Full-Time
 ######   - 🌮  I ❤ México
-######   - 🐱‍👤  Hard Word
+######   - 🐱‍👤  Hard Work
 
 ##### more...
 
