@@ -16,7 +16,6 @@
   
   ###### Aqui algunos repertorios de Ciencia de Datos 
   
-##### by **os** 
-
-  
+##### by **os**
 :octocat: 
+  
