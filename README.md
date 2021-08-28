@@ -18,4 +18,4 @@
   
 :octocat: 
 
-with ❤ by **os** 
+with ❤ by **OS** 
