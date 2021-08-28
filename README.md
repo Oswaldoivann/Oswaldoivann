@@ -14,8 +14,8 @@
 
 ######  - 🎨 arte 🎶 música 📚 Literatura 🌳 Greenpeace  
   
-  ###### Aqui algunos repertorios de datascience 
+  ###### Aqui algunos repertorios de Ciencia de Datos 
   
 :octocat: 
 
-with ❤ by os  
+with ❤ by **os** 
