@@ -18,7 +18,7 @@
   
   
 
-for all  by **OS** 
+for all  by **os** 
 
   
 :octocat: 
