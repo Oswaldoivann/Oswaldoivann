@@ -14,8 +14,8 @@
 
 ####  - 🎨 arte 🎶 música 📚 Literatura 🌳 Greenpeace 🎞️ Cortometrajes
   
-  ###### Aqui algunos repertorios de Ciencia de Datos 
+  ##### Aqui algunos repertorios de Ciencia de Datos 
   
-##### by **os**
-:octocat: 
+#### :octocat:  by **os**
+
   
