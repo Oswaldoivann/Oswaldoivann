@@ -11,7 +11,7 @@
 
 ### Visita mi Proyecto [Devs Mex](https://devsmex.me/ "Devs Mex") 
   
-![Image text](https://github.com/Oswaldoivann/Oswaldoivann/blob/main/DevsMex.png)</center>
+<center> ![Image text](https://github.com/Oswaldoivann/Oswaldoivann/blob/main/DevsMex.png)</center>
 
 ### more...
 
