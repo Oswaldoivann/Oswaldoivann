@@ -9,8 +9,7 @@
 ###  - I ❤ México
 ###  - 🤜 Hard Work
 
-### Visita Devs Mex
-
+### Visita Devs Mex: Conecta con todas la Comunidad de Software en México.
 [Devs Mex](https://devsmex.me/ "Devs Mex") 
   
 ![Image text](https://github.com/Oswaldoivann/Oswaldoivann/blob/main/DevsMex.png)
@@ -19,7 +18,7 @@
 
 ####  - 🎨 arte 🎶 música 📚 Literatura 🌳 Greenpeace 🎞️ Cortometrajes
   
-  ##### Aqui algunos repertorios de Ciencia de Datos 
+  ##### Aqui algunos repositorios de Ciencia de Datos 
   
 #### :octocat:  by **os**
       
